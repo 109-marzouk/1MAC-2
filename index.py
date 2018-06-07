@@ -1,3 +1,4 @@
+# This Python file uses the following encoding: utf-8
 """
 https://macdiscussions.udacity.com/t/git-github/205621/
 ====================
@@ -11,6 +12,6 @@ quotes = [
     "“Java is to JavaScript what car is to Carpet.” – Chris Heilmann"
 ]
 from random import choice
-print(choice(quotes)
+print(choice(quotes))
 
 #-------------------------------------------------------------------------------------
